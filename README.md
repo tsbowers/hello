@@ -4,9 +4,7 @@ This project is to welcome you into the day and to show basic call and response,
 
 This is an into to my profile and an example of simple Python. Its all up from here.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video] (https://www.loom.com/share/816990b4ec4d4b5fb37378b3c1e61b0f)
 
 # Development Environment
 
